@@ -2,8 +2,8 @@
 <h1>Hi 👋, I'm Nidhal! <br/>
 <h2> </h2>
   <b>IT & Cybersecurity Engineer </br> </br></b>
-  <b> 💻•	I'm passionate about crafting resilient defenses against evolving threats and continually expanding my knowledge in this domain.</br> </br></b>
-  <b> 📧•	How to reach me : nidhall.chaabene@gmail.com</b>
+  <b> • 💻	I'm passionate about crafting resilient defenses against evolving threats and continually expanding my knowledge in this domain.</br> </br></b>
+  <b> • 📧	How to reach me : <a href="mailto:nidhall.chaabene@gmail.com">nidhall.chaabene@gmail.com</a></b>
   
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -16,7 +16,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NidhalChaabene | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/nidhal-chaabene/
