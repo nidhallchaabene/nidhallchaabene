@@ -8,10 +8,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+- <b>Powershell</b>
+  - [Active Directory Home Lab (Bulk User Creation)](https://github.com/)
+
 
 
 <h2> 🤳 Connect with me:</h2>
