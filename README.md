@@ -10,6 +10,7 @@
 
 - <b>Powershell</b>
   - [Active Directory Home Lab (Bulk User Creation)](https://github.com/nidhallchaabene/ActiveDirectoryLab.git)
+  - [File Integrity Monitor (FIM)](https://github.com/nidhallchaabene/File-Integrity-Monitor.git)
 - <b>C#</b>
   - [Keylogger With Email Reception](https://github.com/nidhallchaabene/Keylogger.git)
 
