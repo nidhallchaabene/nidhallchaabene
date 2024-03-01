@@ -33,9 +33,9 @@
 
 [linkedin]: https://www.linkedin.com/in/nidhal-chaabene/ 
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhallchaabene&show_icons=true&locale=en&layout=compact" alt="nidhallchaabene" /></p><br><br><br><br><br><br><br>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhallchaabene&show_icons=true&locale=en&layout=compact" alt="nidhallchaabene" /></p><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="Left" src="https://github-readme-stats.vercel.app/api?username=nidhallchaabene&show_icons=true&locale=en" alt="nidhallchaabene" /></p><br><br><br><br><br><br><br><br><br>
+<p><img align="Left" src="https://github-readme-stats.vercel.app/api?username=nidhallchaabene&show_icons=true&locale=en" alt="nidhallchaabene" /></p><br><br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhallchaabene&" alt="nidhallchaabene" /></p>
 
