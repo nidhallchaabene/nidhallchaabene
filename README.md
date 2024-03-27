@@ -17,8 +17,7 @@
 - <b>C#</b>
   - [Keylogger With Email Reception](https://github.com/nidhallchaabene/Keylogger.git)
   - [Ransomware (Encrypter and Decrypter)](https://github.com/nidhallchaabene/Ransomware-Encrypt-Decrypt.git)
-- <b>DevSecOps</b>
-  - [DevSecOps Pipeline for Java Application](https://github.com/nidhallchaabene/DevSecOps.git)
+
  
 
 <br><h2>Languages and Tools:</h3>
